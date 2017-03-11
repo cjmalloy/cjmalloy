@@ -56,6 +56,10 @@
 
   <repositories>
     <repository>
+      <id>cjmalloy-central</id>
+      <url>http://cjmalloy.com/m2/libs-release</url>
+    </repository>
+    <repository>
       <id>cjmalloy-repo</id>
       <url>http://cjmalloy.com/m2/libs-snapshot</url>
     </repository>

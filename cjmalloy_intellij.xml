@@ -1,4 +1,5 @@
 <code_scheme name="GoogleStyle">
+  <option name="AUTODETECT_INDENTS" value="false" />
   <option name="OTHER_INDENT_OPTIONS">
     <value>
       <option name="INDENT_SIZE" value="2" />
@@ -25,7 +26,8 @@
       <package name="" withSubpackages="true" static="false" />
     </value>
   </option>
-  <option name="RIGHT_MARGIN" value="100" />
+  <option name="RIGHT_MARGIN" value="140" />
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <option name="JD_ALIGN_PARAM_COMMENTS" value="false" />
   <option name="JD_ALIGN_EXCEPTION_COMMENTS" value="false" />
   <option name="JD_P_AT_EMPTY_LINES" value="false" />
@@ -156,7 +158,6 @@
     <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
-    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_RESOURCES" value="false" />
     <option name="ALIGN_MULTILINE_FOR" value="false" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
@@ -177,7 +178,7 @@
     <option name="PARENT_SETTINGS_INSTALLED" value="true" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="6" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>

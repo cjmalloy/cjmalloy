@@ -178,6 +178,7 @@
         </module>
         <module name="CustomImportOrder">
             <property name="sortImportsInGroupAlphabetically" value="true"/>
+            <property name="standardPackageRegExp" value="^(java|javax|javafx)\."/>
             <property name="customImportOrderRules" value="STATIC###STANDARD_JAVA_PACKAGE###THIRD_PARTY_PACKAGE"/>
         </module>
         <module name="MethodParamPad"/>
